@@ -20,7 +20,7 @@ This project is being developed in stages. Each stage represents a different mod
 ### 1. Multi-Layer Perceptron (MLP)
 * **Status:** **Complete**
 * **File:** `Chess_Engine_MLP.ipynb`
-* **Description:** A baseline model that takes a flattened board representation as input. This simple, fully-connected network serves as a "hello world" for chess AI and establishes a performance baseline.
+* **Description:** A simple model that takes a flattened board representation as input. This is the simplest possible model and it is used to set the minimum performance baseline.
 
 ### 2. Convolutional Neural Network (CNN)
 * **Status:** **In Progress**
@@ -36,7 +36,7 @@ This project is being developed in stages. Each stage represents a different mod
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * **Language:** Python 3
 * **Core Libraries:**
@@ -47,7 +47,7 @@ This project is being developed in stages. Each stage represents a different mod
 
 ---
 
-## 🚀 Getting Started
+## Try it yourself
 
 Since the project is developed in Google Colab notebooks, getting started is simple.
 
